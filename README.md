@@ -1,8 +1,8 @@
-Welcome!
+![image](https://github.com/user-attachments/assets/a7172cab-2383-4776-b9cb-d8b6ab030251)Welcome!
 
 Use below guidelines to run this project
 
-    git clone https://github.com/SUJAL390/ReactProjectEcommerce.git
+    git clone https://github.com/Astha463/React-Ecommerce-with-admin
     change directory and get into project's directory
     npm install
     npm start
