@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a7172cab-2383-4776-b9cb-d8b6ab030251)Welcome!
+
 
 Use below guidelines to run this project
 
